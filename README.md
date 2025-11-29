@@ -1,33 +1,40 @@
-<div align="center">
+<!-- GitHub: mokka-official -->
+<h1 align="center">
+  <code> mokka-official </code>
+</h1>
 
-# mokka-official
-
-*“Code simply, run anywhere.”*
-
-</div>
-
----
-
-### About Me
-Low-level enthusiast, shell-script collector, and Linux day-to-day driver.  
-I enjoy turning ideas into small, fast tools—usually in C#, C++, or a few lines of Bash.
-
-### Tech I Like
-<div align="center">
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
-### Reach Me
-<div align="center">
-
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:sakuraiyukino_official@outlook.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mokka-official)
-
-</div>
+<p align="center">
+  <a href="mailto:sakuraiyukino_official@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-sakuraiyukino_official-blue?logo=microsoft-outlook" alt="Outlook" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/.NET-9-512BD4?logo=.net&logoColor=white" alt=".NET 9" />
+  <img src="https://img.shields.io/badge/Shell-Bash-121011?logo=gnu-bash&logoColor=white" alt="Shell" />
+</p>
 
 ---
+
+### 👋 Hi there, I’m mokka-official
+I spend most of my time writing **C#**, **C++**, and **Shell** scripts on **Linux**.  
+Currently exploring everything **.NET 9** has to offer.
+
+### 🔧 Quick Links
+| Where | Link |
+|-------|------|
+| 📬 Email | [sakuraiyukino_official@outlook.com](mailto:sakuraiyukino_official@outlook.com) |
+| 🗂️ Repos | [https://github.com/mokka-official](https://github.com/mokka-official) |
+
+### ⚡ Recent Focus
+- Porting side-projects to `.NET 9`
+- Writing high-performance Linux daemons in **C++**
+- Automating dev workflows with **Bash** & **C#** CLIs
+
+### 📊 GitHub Stats
+![mokka-official's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokka-official&show_icons=true&theme=transparent)
+
+<!--
+**mokka-official/mokka-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to edit it whenever you like.
+-->
