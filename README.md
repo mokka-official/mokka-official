@@ -23,8 +23,8 @@ Currently exploring everything **.NET 9** has to offer.
 ### 🔧 Quick Links
 | Where | Link |
 |-------|------|
-| 📬 Email | [sakuraiyukino_official@outlook.com](mailto:sakuraiyukino_official@outlook.com) |
-| 🗂️ Repos | [https://github.com/mokka-official](https://github.com/mokka-official) |
+|  Email | [sakuraiyukino_official@outlook.com](mailto:sakuraiyukino_official@outlook.com) |
+| Repos | [https://github.com/mokka-official](https://github.com/mokka-official) |
 
 ### ⚡ Recent Focus
 - Porting side-projects to `.NET 9`
