@@ -1,16 +1,33 @@
-# Hi there, I'm Yukino (SakuraiYukino)
+<div align="center">
 
-[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+# mokka-official / **SakuraiYukino**
 
-[![Arcaea](https://img.shields.io/badge/-Arcaea-5C4DFF?style=flat-square&logoColor=white)](https://arcaea.lowiro.com/)
-[![osu!](https://img.shields.io/badge/-osu!-FF66AA?style=flat-square&logo=osu&logoColor=white)](https://osu.ppy.sh/)
+*“Code simply, run anywhere.”*
 
-[![Outlook](https://img.shields.io/badge/-sakuraiyukino__official@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:sakuraiyukino_official@outlook.com)
+</div>
 
-- 🔭 I’m currently hacking on CLI tools & Linux utilities  
-- 🌱 Learning modern C++20 and .NET 8  
-- 🎶 Rhythm-game lover: Arcaea 12.00+ PTT, osu!std 6★+  
-- 💬 Ask me anything about C#, shell scripting, or compiling things on Linux  
+---
+
+### About Me
+Low-level enthusiast, shell-script collector, and Linux day-to-day driver.  
+I enjoy turning ideas into small, fast tools—usually in C#, C++, or a few lines of Bash.
+
+### Tech I Like
+<div align="center">
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+### Reach Me
+<div align="center">
+
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:sakuraiyukino_official@outlook.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mokka-official)
+
+</div>
+
+---
