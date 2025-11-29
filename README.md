@@ -1,6 +1,6 @@
 <div align="center">
 
-# mokka-official / **SakuraiYukino**
+# mokka-official
 
 *“Code simply, run anywhere.”*
 
